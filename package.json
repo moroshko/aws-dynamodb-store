@@ -1,0 +1,15 @@
+{
+  "name": "aws-dynamodb-store",
+  "version": "1.0.0",
+  "description": "Simple node.js interface to AWS DynamoDB",
+  "author": "Misha Moroshko <michael.moroshko@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moroshko/aws-dynamodb-store.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.12",
+    "dynamodb-data-types": "^2.0.1",
+    "node-uuid": "^1.4.2"
+  }
+}
